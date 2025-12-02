@@ -5,7 +5,7 @@
 <h2 align="left">Welcome to my workspace!</h2>
 
 ###
-<p align="left">You can find me Constantly whirling with ideas, mostly creating chaos and occasionally hitting the right notes!</p>
+<p align="left">Constantly whirling with ideas, mostly creating chaos and occasionally hitting the right notes!</p>
 
 ###
 
